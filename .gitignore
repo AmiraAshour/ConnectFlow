@@ -1,0 +1,4 @@
+# Visual Studio Publish Profiles
+/Properties/PublishProfiles/*.pubxml
+/Properties/PublishProfiles/*.pubxml*
+**/appsettings.json

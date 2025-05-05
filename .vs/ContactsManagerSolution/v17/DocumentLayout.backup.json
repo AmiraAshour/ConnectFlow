@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\downloads\\dot net\\project dot net\\contactsmanagersolution\\contactsmanager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3153B-5A5E-40D3-A8B8-22C6DA91E3F6}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|d:\\downloads\\dot net\\project dot net\\contactsmanagersolution\\contactsmanager.infrastructure\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3153B-5A5E-40D3-A8B8-22C6DA91E3F6}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|solutionrelative:contactsmanager.infrastructure\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\downloads\\dot net\\project dot net\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\downloads\\dot net\\project dot net\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\downloads\\dot net\\project dot net\\contactsmanagersolution\\contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\downloads\\dot net\\project dot net\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\downloads\\dot net\\project dot net\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\emailverificationsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\emailverificationsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:19:47.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\appsettings.json",
+              "ToolTip": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
+              "RelativeToolTip": "ContactsManager.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T19:22:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T15:20:05.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T14:31:42.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T13:02:53.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailVerificationSent.cshtml",
+              "DocumentMoniker": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\EmailVerificationSent.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\EmailVerificationSent.cshtml",
+              "ToolTip": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\EmailVerificationSent.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\EmailVerificationSent.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T12:37:46.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAASwG4BAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:11:06.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

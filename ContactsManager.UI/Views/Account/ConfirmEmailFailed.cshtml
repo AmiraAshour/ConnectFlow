@@ -1,0 +1,10 @@
+﻿@{
+  ViewBag.Title = "Email Confirmation Failed";
+}
+<div class="container mt-5">
+  <div class="alert alert-danger text-center shadow p-4 rounded-3">
+    <h1 class="mb-4"><i class="bi bi-x-circle-fill"></i> Email Confirmation Failed</h1>
+    <p class="lead">Sorry, something went wrong. Please try again or contact support. 😔</p>
+    <a class="btn btn-danger mt-3" href="@Url.Action("Login", "Account")">Back to Login</a>
+  </div>
+</div>

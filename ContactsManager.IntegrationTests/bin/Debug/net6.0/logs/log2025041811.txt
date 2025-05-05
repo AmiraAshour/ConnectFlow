@@ -1,0 +1,16 @@
+2025-04-18 11:10:37.895 +02:00 [INF] ResponseHeaderActionFilter before
+2025-04-18 11:10:37.968 +02:00 [INF] ResponseHeaderActionFilter before
+2025-04-18 11:10:37.969 +02:00 [INF] ResponseHeaderActionFilter before
+2025-04-18 11:10:37.971 +02:00 [INF] PersonListActionFilter.OnActionExecuting method
+2025-04-18 11:10:37.978 +02:00 [INF] Index method of Person Controller
+2025-04-18 11:10:37.980 +02:00 [DBG] searchBy: , searchString: , sortBy: PersonName, sortOrder: ASC 
+2025-04-18 11:10:37.994 +02:00 [INF] GetFilteredPersons method of PersonService
+2025-04-18 11:10:37.997 +02:00 [INF] GetAllPersons method of PersonRepository
+2025-04-18 11:10:39.424 +02:00 [INF] GetSortedPersons method of PersonService
+2025-04-18 11:10:39.431 +02:00 [INF] PersonListActionFilter.OnActionExecuted method
+2025-04-18 11:10:39.491 +02:00 [INF] ResponseHeaderActionFilter After
+2025-04-18 11:10:39.492 +02:00 [INF] ResponseHeaderActionFilter After
+2025-04-18 11:10:39.492 +02:00 [INF] ResponseHeaderActionFilter After
+2025-04-18 11:10:39.495 +02:00 [INF] PersonsListResultFilter.OnResultExecutionAsync- Before
+2025-04-18 11:10:39.740 +02:00 [INF] PersonsListResultFilter.OnResultExecutionAsync- After
+2025-04-18 11:10:39.743 +02:00 [INF] HTTP GET /Persons/Index responded 200 in 2123.3920 ms

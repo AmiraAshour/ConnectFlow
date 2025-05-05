@@ -1,0 +1,52 @@
+﻿@{
+  ViewBag.Title = "Upload Countries";
+  ViewBag.CurrentUrl = "~/Countries/UploadFromExcel";
+}
+
+<div class="center-box">
+
+  <form asp-controller="Countries" asp-action="UploadFromExcel" method="post" enctype="multipart/form-data">
+  
+
+    <span class="form-title">Upload countries from Excel file</span>
+    <p class="form-paragraph">
+      Choose an xlsx file
+    </p>
+    <label for="file-input" class="drop-container">
+      <span class="drop-title">Drop files here</span>
+      or
+      <input type="file" name="excelFile" id="file-input">
+    </label>
+
+    <div class="text-red">@ViewBag.ErrorMessage</div>
+    <div class="text-green">@ViewBag.Message</div>
+
+    <div class="form-field flex">
+      <input type="submit" value="Upload" class="btn btn-success w-100 p-2 mt-2" />
+    </div>
+  </form>
+</div>
+
+<script>
+  const dropContainer = document.querySelector('.drop-container');
+  const fileInput = document.getElementById('file-input');
+
+
+  dropContainer.addEventListener('dragover', (e) => {
+    e.preventDefault();
+    dropContainer.classList.add('drag-active');
+  });
+
+  dropContainer.addEventListener('dragleave', () => {
+    dropContainer.classList.remove('drag-active');
+  });
+
+  dropContainer.addEventListener('drop', (e) => {
+    e.preventDefault();
+    dropContainer.classList.remove('drag-active');
+
+    if (e.dataTransfer.files.length) {
+      fileInput.files = e.dataTransfer.files;
+    }
+  });
+</script>

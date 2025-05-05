@@ -1,0 +1,133 @@
+﻿@model LoginDTO
+@{
+  ViewBag.Title = "Login";
+  ViewBag.CurrentUrl = "~/Account/Login";
+  string? email = ViewBag.UnconfirmedEmail;
+
+}
+<div class="center-box ">
+    <h2 class="text-center mb-4">Login</h2>
+
+  <form asp-action="Login" asp-controller="Account" asp-route-ReturnUrl="@Context.Request.Query["ReturnUrl"]" method="post">
+
+      <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+      </div>
+      <div class="mb-3">
+        <label asp-for="Password" class="form-label"></label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+      </div>
+
+
+    <div class="float-end">
+      <a asp-controller="Account" asp-action="VerifyEmail" class="text-decoration-none">
+        Forgot password?
+      </a>
+    </div>
+    <div class="form-check mb-3">
+      <label class="form-check-label">
+        <input asp-for="RememberMe" class="form-check-input" />
+        RememberMe
+      </label>
+    </div>
+    @if (email != null)
+    {
+      <div class="alert alert-warning mt-3">
+        Your email is not confirmed.
+        <br />
+        <a href="@Url.Action("ResendEmailConfirmation", "Account", new { email =email })"
+           class="btn btn-sm btn-outline-primary mt-2">
+          Resend Confirmation Email
+        </a>
+      </div>
+    }
+    @if (ViewBag.LockoutEnd != null)
+    {
+      <div class="alert alert-warning d-flex align-items-center gap-3 shadow-sm rounded-3 p-3 mt-4" role="alert">
+        <i class="bi bi-exclamation-triangle-fill fs-4 text-warning"></i>
+        <div>
+          <strong>Your account is temporarily locked.</strong><br />
+          Too many failed login attempts. <br />
+          <span class="fw-semibold">It will unlock in:</span>
+          <span id="lockout-timer" class="text-danger fw-bold"></span>
+        </div>
+      </div>
+
+      <script>
+        const endTime = new Date('@(((DateTimeOffset)ViewBag.LockoutEnd).UtcDateTime.ToString("u"))').getTime();
+        const timerElement = document.getElementById("lockout-timer");
+
+        const timer = setInterval(() => {
+            const now = new Date().getTime();
+            const remaining = endTime - now;
+
+            if (remaining <= 0) {
+                clearInterval(timer);
+                timerElement.innerText = "Unlocked. You can try logging in again.";
+                return;
+            }
+
+            const minutes = Math.floor((remaining % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((remaining % (1000 * 60)) / 1000);
+            timerElement.innerText = `${minutes}:${seconds}`;
+        }, 1000);
+      </script>
+    }
+
+
+    <input type="submit" value="Login" class="btn btn-success w-100 p-2" />
+
+    <p class="text-center mt-2">
+      Don't have an account? <a asp-controller="Account" asp-action="Register" class="text-decoration-none">Register</a>
+    </p>
+
+
+
+    <div>
+
+      <div asp-validation-summary="All" class="text-danger"></div>
+
+      @if (ViewBag.Errors != null)
+      {
+        <div class="text-red ml">
+          <ul>
+            @foreach (string error in ViewBag.Errors)
+            {
+              <li class="ml">@error</li>
+            }
+          </ul>
+        </div>
+      }
+
+    </div>
+  </form>
+
+  
+  <div class="d-flex align-items-center my-4">
+    <hr class="flex-grow-1" />
+    <span class="mx-2">or</span>
+    <hr class="flex-grow-1" />
+  </div>
+  <div class="text-center">
+    <a asp-controller="Account" asp-action="ExternalLogin" asp-route-provider="Google"
+       class="btn btn-outline-danger d-flex align-items-center justify-content-center gap-2 w-100 p-2">
+      <img src="https://developers.google.com/identity/images/g-logo.png" width="20" height="20" alt="Google Logo" />
+      <span>Login with Google</span>
+    </a>
+  </div>
+
+
+
+</div>
+
+@section scripts
+{
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" asp-fallback-test="window.jQuery" asp-fallback-src="~/jquery.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.4/jquery.validate.min.js" asp-fallback-test="window.jQuery.validator" asp-fallback-src="~/jquery.validate.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" asp-fallback-test="window.jQuery.validator.unobstrusive" asp-fallback-src="~/jquery.validate.unobtrusive.min.js"></script>
+}

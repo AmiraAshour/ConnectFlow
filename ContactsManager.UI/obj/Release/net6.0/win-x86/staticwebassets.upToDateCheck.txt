@@ -1,0 +1,10 @@
+wwwroot\error.svg
+wwwroot\ExternalStyle.css
+wwwroot\favicon.ico
+wwwroot\jquery.min.js
+wwwroot\jquery.validate.min.js
+wwwroot\jquery.validate.unobtrusive.min.js
+wwwroot\logo.jpg
+wwwroot\Rotativa\wkhtmltopdf.exe
+wwwroot\Style.css
+wwwroot\StyleSheet.css
