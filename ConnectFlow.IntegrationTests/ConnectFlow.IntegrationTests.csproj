@@ -29,7 +29,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ContactsManager.UI\ContactsManager.UI.csproj" />
+    <ProjectReference Include="..\ConnectFlow.UI\ConnectFlow.UI.csproj" />
+    <ProjectReference Include="..\ConnectFlow.UI\ConnectFlow.UI.csproj" />
   </ItemGroup>
 
 </Project>

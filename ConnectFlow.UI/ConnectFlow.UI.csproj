@@ -25,12 +25,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ContactsManager.Core\ContactsManager.Core.csproj" />
-    <ProjectReference Include="..\ContactsManager.Infrastructure\ContactsManager.Infrastructure.csproj" />
+    <ProjectReference Include="..\ConnectFlow.Core\ConnectFlow.Core.csproj" />
+    <ProjectReference Include="..\ConnectFlow.Infrastructure\ConnectFlow.Infrastructure.csproj" />
+    <ProjectReference Include="..\ConnectFlow.Core\ConnectFlow.Core.csproj" />
+    <ProjectReference Include="..\ConnectFlow.Infrastructure\ConnectFlow.Infrastructure.csproj" />
   </ItemGroup>
 
 	<ItemGroup>
-		<InternalsVisibleTo Include="ContactsManager.IntegrationTests" />
+		<InternalsVisibleTo Include="ConnectFlow.IntegrationTests" />
 	</ItemGroup>
 
 	<ItemGroup>

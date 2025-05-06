@@ -1,27 +1,27 @@
 {
   "Version": 1,
-  "Hash": "nBzHiPUc2gj26wQG1BaMrJU1GmjozhKrwahlfH85kzw=",
-  "Source": "ContactsManager.UI",
-  "BasePath": "_content/ContactsManager.UI",
+  "Hash": "kqD2FPu+lUICKGDkUpxtuEy8GkZVXELgJ4ETh0E0eFc=",
+  "Source": "ConnectFlow.UI",
+  "BasePath": "_content/ConnectFlow.UI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ContactsManager.UI\\wwwroot",
-      "Source": "ContactsManager.UI",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "Name": "ConnectFlow.UI\\wwwroot",
+      "Source": "ConnectFlow.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\error.svg",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "error#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -38,11 +38,11 @@
       "OriginalItemSpec": "wwwroot\\error.svg"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\ExternalStyle.css",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\ExternalStyle.css",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "ExternalStyle#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -59,11 +59,11 @@
       "OriginalItemSpec": "wwwroot\\ExternalStyle.css"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\favicon.ico",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -80,11 +80,11 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.min.js",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -101,11 +101,11 @@
       "OriginalItemSpec": "wwwroot\\jquery.min.js"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.validate.min.js",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -122,11 +122,11 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -143,11 +143,11 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.jpg",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\logo.jpg",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -164,11 +164,11 @@
       "OriginalItemSpec": "wwwroot\\logo.jpg"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -185,11 +185,11 @@
       "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Style.css",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\Style.css",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "Style#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -206,11 +206,11 @@
       "OriginalItemSpec": "wwwroot\\Style.css"
     },
     {
-      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
-      "SourceId": "ContactsManager.UI",
+      "Identity": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\StyleSheet.css",
+      "SourceId": "ConnectFlow.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
-      "BasePath": "_content/ContactsManager.UI",
+      "ContentRoot": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\",
+      "BasePath": "_content/ConnectFlow.UI",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -230,7 +230,7 @@
   "Endpoints": [
     {
       "Route": "error.3iwubkh3iq.svg",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\error.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -275,7 +275,7 @@
     },
     {
       "Route": "error.svg",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\error.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -312,7 +312,7 @@
     },
     {
       "Route": "ExternalStyle.c0zekhsauc.css",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\ExternalStyle.css",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\ExternalStyle.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -357,7 +357,7 @@
     },
     {
       "Route": "ExternalStyle.css",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\ExternalStyle.css",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\ExternalStyle.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -394,7 +394,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -439,7 +439,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -476,7 +476,7 @@
     },
     {
       "Route": "jquery.min.ehgnz7f14e.js",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -521,7 +521,7 @@
     },
     {
       "Route": "jquery.min.js",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -558,7 +558,7 @@
     },
     {
       "Route": "jquery.validate.min.9xennu59i4.js",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -603,7 +603,7 @@
     },
     {
       "Route": "jquery.validate.min.js",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -640,7 +640,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.d171zkdrjx.js",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -685,7 +685,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -722,7 +722,7 @@
     },
     {
       "Route": "logo.g3o5so4o4i.jpg",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.jpg",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -767,7 +767,7 @@
     },
     {
       "Route": "logo.jpg",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.jpg",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -804,7 +804,7 @@
     },
     {
       "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -849,7 +849,7 @@
     },
     {
       "Route": "Rotativa/wkhtmltopdf.exe",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -886,7 +886,7 @@
     },
     {
       "Route": "Style.css",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Style.css",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\Style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -923,7 +923,7 @@
     },
     {
       "Route": "Style.edsyldoap9.css",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Style.css",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\Style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -968,7 +968,7 @@
     },
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1005,7 +1005,7 @@
     },
     {
       "Route": "StyleSheet.hsdbhxagou.css",
-      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
+      "AssetFile": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

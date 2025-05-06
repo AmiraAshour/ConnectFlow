@@ -1,5 +1,5 @@
 {
-  "ContactsManager.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.Core",
-  "ContactsManager.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.Infrastructure",
-  "ContactsManager.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ContactsManager.UI"
+  "ConnectFlow.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.Core",
+  "ConnectFlow.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.Infrastructure",
+  "ConnectFlow.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI"
 }
