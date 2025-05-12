@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ConnectFlow.UI\\ConnectFlow.UI.csproj|d:\\downloads\\dot net\\project dot net\\contactsmanagersolution\\connectflow.ui\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{27D61827-3DAF-4890-ACC9-4A062DDF31A3}|ConnectFlow.UI\\ConnectFlow.UI.csproj|solutionrelative:connectflow.ui\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\README.md",
+              "RelativeDocumentMoniker": "ConnectFlow.UI\\README.md",
+              "ToolTip": "D:\\downloads\\Dot Net\\Project dot net\\ContactsManagerSolution\\ConnectFlow.UI\\README.md",
+              "RelativeToolTip": "ConnectFlow.UI\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-12T19:05:02.989Z",
+              "EditorCaption": ""
             }
           ]
         }

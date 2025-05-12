@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectFlow.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d654ccce9a9759292321feea0239d3b7eed5f3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8c6325ae7e3f4ece186937cb2feb2d111b044b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectFlow.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectFlow.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
